@@ -1,3 +1,5 @@
+# Superseded by https://github.com/cldf-datasets/apics
+
 APiCS-data
 ==========
 
